@@ -15,6 +15,7 @@ Feel free to connect with me and explore my journey into the world of coding
 
 ### Github stats
 ----------------
-<p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=killuazoldyckreal&cc=000&tc=fff&ic=2153a3&bc=fff" align="left">
-</p>
+<div style="display: flex; align-items: flex-start;">
+<img style="height: 200px; margin-right: 20px;border-radius: 12px;" src="https://github-stats-alpha.vercel.app/api/?username=killuazoldyckreal&amp;cc=1a1b27&amp;tc=fff&amp;ic=2153a3&amp;bc=000">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killuazoldyckreal&amp;layout=compact&amp;theme=tokyonight" style="height: 200px;border-radius: 12px;">
+</div>
