@@ -17,5 +17,5 @@ Feel free to connect with me and explore my journey into the world of coding
 ----------------
 <div style="display: flex; align-items: flex-start;">
 <img style="height: 200px; margin-right: 20px;border-radius: 12px;" src="https://github-stats-alpha.vercel.app/api/?username=killuazoldyckreal&amp;cc=1a1b27&amp;tc=fff&amp;ic=2153a3&amp;bc=000">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=tokyonight" style="height: 200px;border-radius: 12px;">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=killuazoldyckreal&layout=compact&langs_count=10&theme=tokyonight" style="height: 200px;border-radius: 12px;">
 </div>
